@@ -25,7 +25,7 @@ SECRET_KEY = '7@h%%)!o5&=ao=kf$%zvx6&nw=*1^*-(vc6e=w6eu*gbktt4qx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<akavi>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'akavi.pythonanywhere.com']
 
 
 # Application definition
